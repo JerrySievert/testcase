@@ -1,0 +1,18 @@
+{
+  "name": "testcase",
+  "version": "0.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.8.7"
+  },
+  "dependencies": {
+    "gulp-escomplex": "^0.1.2",
+    "gulp-escomplex-reporter-json": "^0.1.5"
+  }
+}
